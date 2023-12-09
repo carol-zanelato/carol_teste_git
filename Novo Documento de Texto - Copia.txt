@@ -6,7 +6,5 @@
   </head>
   <body>
     Aqui vai o código HTML que fará seu site aparecer.
-    Alteração 1.
-    Alteração 2.
   </body>
 </html>
